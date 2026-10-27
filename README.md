@@ -1,5 +1,7 @@
 # AutomataLab — Regex to NFA & DFA
 
+Repository: `deepakcse896/compilerdesignproject`
+
 A browser-based learning tool that parses a regular expression, builds its NFA with Thompson's construction, converts it to a DFA using epsilon-closure and subset construction, and tests strings against that DFA. An optional image workflow uses Tesseract.js OCR to recognize a regular expression from an uploaded image.
 
 ## Features
